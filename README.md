@@ -3,7 +3,8 @@
 - [x] **Day 1**
   - Sorting
   - HashMap
-- [ ] **Day 2**
+- [x] **Day 2**
+  - Array (brute force)
 - [ ] **Day 3**
 - [ ] **Day 4**
 - [ ] **Day 5**

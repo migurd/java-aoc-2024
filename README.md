@@ -5,7 +5,8 @@
   - HashMap
 - [x] **Day 2**
   - Array (brute force)
-- [ ] **Day 3**
+- [x] **Day 3**
+  - Regex
 - [ ] **Day 4**
 - [ ] **Day 5**
 - [ ] **Day 6**

@@ -7,7 +7,8 @@
   - Array (brute force)
 - [x] **Day 3**
   - Regex
-- [ ] **Day 4**
+- [x] **Day 4**
+  - Matrix
 - [ ] **Day 5**
 - [ ] **Day 6**
 - [ ] **Day 7**

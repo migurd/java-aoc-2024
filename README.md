@@ -9,7 +9,8 @@
   - Regex
 - [x] **Day 4**
   - Matrix
-- [ ] **Day 5**
+- [x] **Day 5**
+  - Topological sort
 - [ ] **Day 6**
 - [ ] **Day 7**
 - [ ] **Day 8**

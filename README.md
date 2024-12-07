@@ -11,7 +11,8 @@
   - Matrix
 - [x] **Day 5**
   - Topological sort
-- [ ] **Day 6**
+- [x] **Day 6**
+  - Matrix
 - [ ] **Day 7**
 - [ ] **Day 8**
 - [ ] **Day 9**
